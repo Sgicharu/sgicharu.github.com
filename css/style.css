@@ -22,3 +22,40 @@ P {
     font-weight: 800;
     font-size: large;
 }
+
+ul li{
+
+    list-style-type: square;
+
+    margin-bottom: 10px;
+
+    margin-left: 50px;
+
+}
+
+/* unvisited link */
+
+a:link {
+
+    color: rgb(11, 13, 12);
+
+}
+
+/* visited link */
+a:visited {
+
+    color: green;
+
+}
+
+/* mouse over link */
+a:hover {
+
+    color: rgb(105, 255, 143);
+
+}
+
+/* selected link */
+a:active {
+
+    color: blue;
