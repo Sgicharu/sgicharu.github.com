@@ -2,12 +2,7 @@ body {
     background-image: url(../images/t.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    font-style: italic;
-    font-family: 'Times New Roman', Times, serif;
-    text-align: left;
-    font-weight: 500;
-    font-size: large;
-}
+    }
 h1{
     font-style: italic;
     font-size: larger;
@@ -19,4 +14,11 @@ head {
     font-size: larger;
     font-weight: 800;
     text-align: center;
+}
+P {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-weight: 800;
+    font-size: large;
 }
